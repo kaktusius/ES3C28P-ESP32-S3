@@ -3,6 +3,7 @@
 ## Manual
 ## Schematic
 ## Instructions
+<img src="configuration.png" width="400">
 
 
 
