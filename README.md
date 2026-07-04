@@ -1,14 +1,14 @@
 # ES3C28P-ESP32-S3
 
-## Manual
-## Schematic
-## Instructions
+`Manual`
+`Schematic`
+`Instructions`
 
 <img src="configuration.png" width="400">
 
 
 
-\* \* Produktparameter:
+`\* \* Produktparameter:`
 
 \*Touchscreen:ES3C28P  Capazitiv
 
@@ -20,27 +20,25 @@
 
 \*Frequenz:240MHz(max.)
 
-\*Speicher:384KBROM +512KBSRAM +16KBRTCSRAM +16MBexternerQSPI-Flash
+\*Speicher:384KBROM +512KBSRAM +16KBRTCSRAM +16MBexternerQSPI-Flash +8MB PSRAM
 
-\*WLAN:2,4-GHz-Band,unterstützt20MHzund40MHzBandbreite
+\*WLAN:2,4-GHz-Band,unterstützt 20MHz und 40MHz Bandbreite
 
 \*Bluetooth:BluetoothV4.2BR/EDRundBluetoothLEBluetooth:BluetoothV4.2BR/EDRundBluetoothLE
 
 \*Betriebsspannung:3,0–3,6V
 
-\*LCD-Bildschirmspezifikationen:
+`\*LCD-Bildschirmspezifikationen:`
 
 \*Bildschirmgröße:2,8Zoll
 
 \*Bildschirmtyp:TFT
 
-\*Auflösung:240xRGBx320Pixel
+\*Auflösung:240x320Pixel
 
-\*EffektiveAnzeigefläche:43,20(B)x57,60(H)mm
+\*Effektive Anzeigefläche:43,20(B)x57,60(H)mm
 
-\*Farbanzahl:Maximal:262K(RGB666);Üblich:65K(RGB565)Farbanzahl:Maximal:262K(RGB666);Üblich:65K(RGB565)
-
-\*Produkteinführung
+\*Farbanzahl:Maximal:262K(RGB666); Üblich:65K(RGB565)Farbanzahl: Maximal:262K(RGB666);
 
 \*Treiber-IC:ILI9341V
 
